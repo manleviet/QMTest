@@ -1,0 +1,38 @@
+D:\Study\Lap trinh ung dung\QM_Test\Test_PublicLayer\bin\Debug\Test_PublicLayer.dll
+D:\Study\Lap trinh ung dung\QM_Test\Test_PublicLayer\bin\Debug\Test_PublicLayer.pdb
+D:\Study\Lap trinh ung dung\QM_Test\Test_PublicLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Study\Lap trinh ung dung\QM_Test\Test_PublicLayer\obj\Debug\Test_PublicLayer.dll
+D:\Study\Lap trinh ung dung\QM_Test\Test_PublicLayer\obj\Debug\Test_PublicLayer.pdb
+D:\Study\Application Programming\QM_Test\Test_PublicLayer\bin\Debug\Test_PublicLayer.dll
+D:\Study\Application Programming\QM_Test\Test_PublicLayer\bin\Debug\Test_PublicLayer.pdb
+D:\Study\Application Programming\QM_Test\Test_PublicLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Study\Application Programming\QM_Test\Test_PublicLayer\obj\Debug\Test_PublicLayer.dll
+D:\Study\Application Programming\QM_Test\Test_PublicLayer\obj\Debug\Test_PublicLayer.pdb
+C:\Users\User\Desktop\QM_Test2\Test_PublicLayer\bin\Debug\Test_PublicLayer.dll
+C:\Users\User\Desktop\QM_Test2\Test_PublicLayer\bin\Debug\Test_PublicLayer.pdb
+C:\Users\User\Desktop\QM_Test2\Test_PublicLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\QM_Test2\Test_PublicLayer\obj\Debug\Test_PublicLayer.dll
+C:\Users\User\Desktop\QM_Test2\Test_PublicLayer\obj\Debug\Test_PublicLayer.pdb
+D:\Desktop\QM_Test2\Test_PublicLayer\bin\Debug\Test_PublicLayer.dll
+D:\Desktop\QM_Test2\Test_PublicLayer\bin\Debug\Test_PublicLayer.pdb
+D:\Desktop\QM_Test2\Test_PublicLayer\obj\Debug\Test_PublicLayer.csprojResolveAssemblyReference.cache
+D:\Desktop\QM_Test2\Test_PublicLayer\obj\Debug\Test_PublicLayer.dll
+D:\Desktop\QM_Test2\Test_PublicLayer\obj\Debug\Test_PublicLayer.pdb
+D:\Desktop\QM_Test\Test_PublicLayer\bin\Debug\Test_PublicLayer.dll
+D:\Desktop\QM_Test\Test_PublicLayer\bin\Debug\Test_PublicLayer.pdb
+D:\Desktop\QM_Test\Test_PublicLayer\obj\Debug\Test_PublicLayer.dll
+D:\Desktop\QM_Test\Test_PublicLayer\obj\Debug\Test_PublicLayer.pdb
+C:\Users\Tuanmy Tran\Google Drive\DeTai\QMTest\Test_PublicLayer\bin\Debug\Test_PublicLayer.dll
+C:\Users\Tuanmy Tran\Google Drive\DeTai\QMTest\Test_PublicLayer\bin\Debug\Test_PublicLayer.pdb
+C:\Users\Tuanmy Tran\Google Drive\DeTai\QMTest\Test_PublicLayer\obj\Debug\Test_PublicLayer.dll
+C:\Users\Tuanmy Tran\Google Drive\DeTai\QMTest\Test_PublicLayer\obj\Debug\Test_PublicLayer.pdb
+C:\Users\Tuanmy Tran\Google Drive\DeTai\QMTest\Test_PublicLayer\obj\Debug\Test_PublicLayer.csprojResolveAssemblyReference.cache
+D:\Desktop\QMTest\Test_PublicLayer\bin\Debug\Test_PublicLayer.dll
+D:\Desktop\QMTest\Test_PublicLayer\bin\Debug\Test_PublicLayer.pdb
+D:\Desktop\QMTest\Test_PublicLayer\obj\Debug\Test_PublicLayer.dll
+D:\Desktop\QMTest\Test_PublicLayer\obj\Debug\Test_PublicLayer.pdb
+D:\Desktop\QMTest1\QMTest\Test_PublicLayer\bin\Debug\Test_PublicLayer.dll
+D:\Desktop\QMTest1\QMTest\Test_PublicLayer\bin\Debug\Test_PublicLayer.pdb
+D:\Desktop\QMTest1\QMTest\Test_PublicLayer\obj\Debug\Test_PublicLayer.dll
+D:\Desktop\QMTest1\QMTest\Test_PublicLayer\obj\Debug\Test_PublicLayer.pdb
+D:\Desktop\QMTest1\QMTest\Test_PublicLayer\obj\Debug\Test_PublicLayer.csprojResolveAssemblyReference.cache

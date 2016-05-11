@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8E67A6E6-176D-4388-9B0E-DDF74F491557}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Test_BussinessLogicLayer</RootNamespace>
+    <AssemblyName>Test_BussinessLogicLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLLClass\CauHoi_BLL.cs" />
+    <Compile Include="BLLClass\ChiTietChucDanh_BLL.cs" />
+    <Compile Include="BLLClass\ChiTietChucVu_BLL.cs" />
+    <Compile Include="BLLClass\ChiTietGiangDay_BLL.cs" />
+    <Compile Include="BLLClass\ChucDanh_BLL.cs" />
+    <Compile Include="BLLClass\ChucVu_BLL.cs" />
+    <Compile Include="BLLClass\ChuDe_BLL.cs" />
+    <Compile Include="BLLClass\Chuong_BLL.cs" />
+    <Compile Include="BLLClass\DeThiBLL.cs" />
+    <Compile Include="BLLClass\DeThiDataSet.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BLLClass\DoKho_BLL.cs" />
+    <Compile Include="BLLClass\GiaoVien_BLL.cs" />
+    <Compile Include="BLLClass\Khoa_BLL.cs" />
+    <Compile Include="BLLClass\MaTranKienThuc_BLL.cs" />
+    <Compile Include="BLLClass\MonHoc_BLL.cs" />
+    <Compile Include="BLLClass\MucKienThuc_BLL.cs" />
+    <Compile Include="BLLClass\MucTriNang_BLL.cs" />
+    <Compile Include="BLLClass\PhanQuyenNhapCauHoi_BLL.cs" />
+    <Compile Include="CauTraLoi_BLL.cs" />
+    <Compile Include="ChiTietQuyen_BLL.cs" />
+    <Compile Include="GiaThietChung_BLL.cs" />
+    <Compile Include="LoaiCauHoi_BLL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="BLLClass\ToBoMon_BLL.cs" />
+    <Compile Include="Quyen_BLL.cs" />
+    <Compile Include="SystemLog_BLL.cs" />
+    <Compile Include="ThaoLuan_BLL.cs" />
+    <Compile Include="ThongTinDuyet_BLL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Test_DataAccess\Test_DataAccess.csproj">
+      <Project>{3E914EA9-6C99-45C3-86AB-46DC06495E57}</Project>
+      <Name>Test_DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Test_PublicLayer\Test_PublicLayer.csproj">
+      <Project>{2CC0231A-BB60-4481-B822-ED0159CBDCE4}</Project>
+      <Name>Test_PublicLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

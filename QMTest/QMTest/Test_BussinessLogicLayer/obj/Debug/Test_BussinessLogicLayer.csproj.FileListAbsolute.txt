@@ -1,0 +1,81 @@
+D:\Study\Lap trinh ung dung\QM_Test\Test_BussinessLogicLayer\bin\Debug\Test_BussinessLogicLayer.dll
+D:\Study\Lap trinh ung dung\QM_Test\Test_BussinessLogicLayer\bin\Debug\Test_BussinessLogicLayer.pdb
+D:\Study\Lap trinh ung dung\QM_Test\Test_BussinessLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Study\Lap trinh ung dung\QM_Test\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.dll
+D:\Study\Lap trinh ung dung\QM_Test\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.pdb
+D:\Study\Lap trinh ung dung\QM_Test\Test_BussinessLogicLayer\bin\Debug\Test_DataAccess.dll
+D:\Study\Lap trinh ung dung\QM_Test\Test_BussinessLogicLayer\bin\Debug\Test_PublicLayer.dll
+D:\Study\Lap trinh ung dung\QM_Test\Test_BussinessLogicLayer\bin\Debug\Test_DataAccess.pdb
+D:\Study\Lap trinh ung dung\QM_Test\Test_BussinessLogicLayer\bin\Debug\Test_PublicLayer.pdb
+D:\Study\Application Programming\QM_Test\Test_BussinessLogicLayer\bin\Debug\Test_BussinessLogicLayer.dll
+D:\Study\Application Programming\QM_Test\Test_BussinessLogicLayer\bin\Debug\Test_BussinessLogicLayer.pdb
+D:\Study\Application Programming\QM_Test\Test_BussinessLogicLayer\bin\Debug\Test_DataAccess.dll
+D:\Study\Application Programming\QM_Test\Test_BussinessLogicLayer\bin\Debug\Test_PublicLayer.dll
+D:\Study\Application Programming\QM_Test\Test_BussinessLogicLayer\bin\Debug\Test_DataAccess.pdb
+D:\Study\Application Programming\QM_Test\Test_BussinessLogicLayer\bin\Debug\Test_PublicLayer.pdb
+D:\Study\Application Programming\QM_Test\Test_BussinessLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Study\Application Programming\QM_Test\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.dll
+D:\Study\Application Programming\QM_Test\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.pdb
+C:\Users\User\Desktop\QM_Test2\Test_BussinessLogicLayer\bin\Debug\Test_BussinessLogicLayer.dll
+C:\Users\User\Desktop\QM_Test2\Test_BussinessLogicLayer\bin\Debug\Test_BussinessLogicLayer.pdb
+C:\Users\User\Desktop\QM_Test2\Test_BussinessLogicLayer\bin\Debug\Test_DataAccess.dll
+C:\Users\User\Desktop\QM_Test2\Test_BussinessLogicLayer\bin\Debug\Test_PublicLayer.dll
+C:\Users\User\Desktop\QM_Test2\Test_BussinessLogicLayer\bin\Debug\Test_DataAccess.pdb
+C:\Users\User\Desktop\QM_Test2\Test_BussinessLogicLayer\bin\Debug\Test_PublicLayer.pdb
+C:\Users\User\Desktop\QM_Test2\Test_BussinessLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\QM_Test2\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.dll
+C:\Users\User\Desktop\QM_Test2\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.pdb
+D:\Desktop\QM_Test2\Test_BussinessLogicLayer\bin\Debug\Test_BussinessLogicLayer.dll
+D:\Desktop\QM_Test2\Test_BussinessLogicLayer\bin\Debug\Test_BussinessLogicLayer.pdb
+D:\Desktop\QM_Test2\Test_BussinessLogicLayer\bin\Debug\Test_DataAccess.dll
+D:\Desktop\QM_Test2\Test_BussinessLogicLayer\bin\Debug\Test_PublicLayer.dll
+D:\Desktop\QM_Test2\Test_BussinessLogicLayer\bin\Debug\Test_DataAccess.pdb
+D:\Desktop\QM_Test2\Test_BussinessLogicLayer\bin\Debug\Test_PublicLayer.pdb
+D:\Desktop\QM_Test2\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\Desktop\QM_Test2\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.dll
+D:\Desktop\QM_Test2\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.pdb
+D:\Desktop\QM_Test\Test_BussinessLogicLayer\bin\Debug\Test_BussinessLogicLayer.dll
+D:\Desktop\QM_Test\Test_BussinessLogicLayer\bin\Debug\Test_BussinessLogicLayer.pdb
+D:\Desktop\QM_Test\Test_BussinessLogicLayer\bin\Debug\Test_DataAccess.dll
+D:\Desktop\QM_Test\Test_BussinessLogicLayer\bin\Debug\Test_PublicLayer.dll
+D:\Desktop\QM_Test\Test_BussinessLogicLayer\bin\Debug\Test_DataAccess.pdb
+D:\Desktop\QM_Test\Test_BussinessLogicLayer\bin\Debug\Test_PublicLayer.pdb
+D:\Desktop\QM_Test\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\Desktop\QM_Test\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.dll
+D:\Desktop\QM_Test\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.pdb
+C:\Users\Tuanmy Tran\Google Drive\DeTai\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_BussinessLogicLayer.dll
+C:\Users\Tuanmy Tran\Google Drive\DeTai\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_BussinessLogicLayer.pdb
+C:\Users\Tuanmy Tran\Google Drive\DeTai\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_DataAccess.dll
+C:\Users\Tuanmy Tran\Google Drive\DeTai\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_PublicLayer.dll
+C:\Users\Tuanmy Tran\Google Drive\DeTai\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_DataAccess.pdb
+C:\Users\Tuanmy Tran\Google Drive\DeTai\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_PublicLayer.pdb
+C:\Users\Tuanmy Tran\Google Drive\DeTai\QMTest\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Tuanmy Tran\Google Drive\DeTai\QMTest\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.dll
+C:\Users\Tuanmy Tran\Google Drive\DeTai\QMTest\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.pdb
+D:\Desktop\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_BussinessLogicLayer.dll
+D:\Desktop\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_BussinessLogicLayer.pdb
+D:\Desktop\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_DataAccess.dll
+D:\Desktop\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_PublicLayer.dll
+D:\Desktop\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_DataAccess.pdb
+D:\Desktop\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_PublicLayer.pdb
+D:\Desktop\QMTest\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\Desktop\QMTest\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.dll
+D:\Desktop\QMTest\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.pdb
+D:\Desktop\QMTest1\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_BussinessLogicLayer.dll
+D:\Desktop\QMTest1\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_BussinessLogicLayer.pdb
+D:\Desktop\QMTest1\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_DataAccess.dll
+D:\Desktop\QMTest1\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_PublicLayer.dll
+D:\Desktop\QMTest1\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_DataAccess.pdb
+D:\Desktop\QMTest1\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_PublicLayer.pdb
+D:\Desktop\QMTest1\QMTest\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\Desktop\QMTest1\QMTest\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.dll
+D:\Desktop\QMTest1\QMTest\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.pdb
+C:\Users\Tuanmy Tran\Google Drive\QMTest\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_BussinessLogicLayer.dll
+C:\Users\Tuanmy Tran\Google Drive\QMTest\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_BussinessLogicLayer.pdb
+C:\Users\Tuanmy Tran\Google Drive\QMTest\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_DataAccess.dll
+C:\Users\Tuanmy Tran\Google Drive\QMTest\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_PublicLayer.dll
+C:\Users\Tuanmy Tran\Google Drive\QMTest\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_DataAccess.pdb
+C:\Users\Tuanmy Tran\Google Drive\QMTest\QMTest\Test_BussinessLogicLayer\bin\Debug\Test_PublicLayer.pdb
+C:\Users\Tuanmy Tran\Google Drive\QMTest\QMTest\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Tuanmy Tran\Google Drive\QMTest\QMTest\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.dll
+C:\Users\Tuanmy Tran\Google Drive\QMTest\QMTest\Test_BussinessLogicLayer\obj\Debug\Test_BussinessLogicLayer.pdb

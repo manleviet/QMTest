@@ -1,0 +1,48 @@
+private void button1_Click(object sender, EventArgs e)
+        {
+            
+            DataTable tbl = new DataTable();
+            if (pivotGridControlMaTranKienThuc.Cells.RowCount == 0) return;
+
+            List<PivotGridField> rowFields = pivotGridControlMaTranKienThuc.GetFieldsByArea(PivotArea.RowArea);
+            foreach (PivotGridField rowField in rowFields)
+                tbl.Columns.Add(rowField.ToString());
+            for (int i = 0; i < pivotGridControlMaTranKienThuc.Cells.ColumnCount; i++)
+                tbl.Columns.Add(GetColumnFieldValueText(pivotGridControlMaTranKienThuc, pivotGridControlMaTranKienThuc.Cells.GetCellInfo(i, 0)));
+            for (int rowIndex = 0; rowIndex < pivotGridControlMaTranKienThuc.Cells.RowCount; rowIndex++)
+            {
+                DataRow row = tbl.NewRow();
+                DevExpress.XtraPivotGrid.PivotCellEventArgs cellInfo = pivotGridControlMaTranKienThuc.Cells.GetCellInfo(0, rowIndex);
+
+                foreach (PivotGridField rowField in rowFields)
+                    row[rowField.AreaIndex] = cellInfo.GetFieldValue(rowField);
+
+                for (int columnIndex = 0; columnIndex < pivotGridControlMaTranKienThuc.Cells.ColumnCount; columnIndex++)
+                    row[columnIndex + rowFields.Count] = pivotGridControlMaTranKienThuc.Cells.GetCellInfo(columnIndex, rowIndex).Value;
+                tbl.Rows.Add(row);
+            }
+            gridControl2.DataSource = tbl;
+        }
+        static string separatorString = " | ";
+
+        private string GetColumnFieldValueText(PivotGridControl pivotGrid, PivotCellEventArgs cellInfo)
+        {
+            
+            StringBuilder sb = new StringBuilder();
+            if (cellInfo.ColumnValueType == PivotGridValueType.GrandTotal)
+            {
+                sb.Append("Grand Total");
+                sb.Append(separatorString);
+            }
+            else
+                foreach (PivotGridField field in cellInfo.GetColumnFields())
+                {
+                    sb.Append(cellInfo.GetFieldValue(field));
+                    sb.Append(separatorString);
+                }
+            if (pivotGrid.GetFieldsByArea(PivotArea.DataArea).Count > 1)
+                sb.Append(cellInfo.DataField);
+            else
+                sb.Remove(sb.Length - separatorString.Length, separatorString.Length);
+            return sb.ToString();
+        }
